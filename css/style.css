@@ -1,0 +1,26 @@
+body{
+  text-decoration: none; 
+  color: rgb(0, 0, 0);           
+  font-family: sans-serif; 
+}
+nav ul {
+  list-style: none;         
+  display: flex;            
+  justify-content: center;  
+  gap: 15px;                
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  margin: 0; 
+}
+
+nav ul li a {
+  text-decoration: none; 
+  color: blueviolet;           
+  font-weight: 700;  
+  font-family: sans-serif;   
+  
+}
+
